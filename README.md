@@ -25,15 +25,13 @@ Do not forget to put your keys in code:
 ## Code snippet to change
 ```
 const Auth_2 = {
+        //Authorization API  
         oauth_consumer_key: "API KEY",
         oauth_token: "API ACCESS TOKEN",
         oauth_secret_key: "API SECRET KEY",
         oauth_token_secret: "API ACCESS TOKEN SECRET",
-        oauth_signature_method: "HMAC-SHA1",
         oauth_timestamp: Math.floor(Date.now() / 1000),
-        oauth_nonce: uuid.v1(),
-        oauth_version: "1.0",
-        oauth_signature: "obKeVKBvjoOaV6kGPv76zM3odDg%3D"
+        oauth_nonce: uuid.v1()
 }
 ```
 
