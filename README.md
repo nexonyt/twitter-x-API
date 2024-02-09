@@ -4,7 +4,7 @@
 
 ## Description
 
-To use API, take from X Developer's site: 
+Don't bother writing code that will allow you to send a tweet using code. Or maybe you need to write a Twitter bot, but you don't know the basics? My code will help you send a tweet
 
 ## Requirements to use the code
 Make sure that node packages are installed in the folder where the main file is located. The packages you will need to run the file are:
