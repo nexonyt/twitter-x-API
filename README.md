@@ -9,16 +9,18 @@ To use API, take from X Developer's site:
 
 ## How do I get the keys needed for integration?
 In order to connect your integration with the X API, you must first have an account on X and then log in to the development panel. [Link here.](https://developer.twitter.com/en/portal/dashboard)
-Then find the section shown below. There you will find all 4 keys needed in the code. Do not give it to anyone, it is confidential data.
-Find in a file this line of code:
+Then find the section called **Consumer Keys** and **Authentication Tokens**. There you will find all 4 keys needed in the code. Do not give it to anyone, it is confidential data. You'll need:
+- `API KEY` 
+- `API SECRET KEY` 
+- `API ACCESS TOKEN` 
+- `API ACCESS TOKEN SECRET`
 
+
+## How can I use it?
 
 
 Do not forget to put your keys in code:
-- `API KEY` - it's your API KEY from X
-- `API SECRET KEY` - it's your API KEY from X
-- `API ACCESS TOKEN` - it's your API KEY from X
-- `API ACCESS TOKEN SECRET` - it's your API KEY from X
+
 
 ## Code snippet to change
 ```
