@@ -9,11 +9,8 @@ async function API() {
         oauth_token: "API ACCESS TOKEN",
         oauth_secret_key: "API SECRET KEY",
         oauth_token_secret: "API ACCESS TOKEN SECRET",
-        oauth_signature_method: "HMAC-SHA1",
         oauth_timestamp: Math.floor(Date.now() / 1000),
-        oauth_nonce: uuid.v1(),
-        oauth_version: "1.0",
-        oauth_signature: "obKeVKBvjoOaV6kGPv76zM3odDg%3D"
+        oauth_nonce: uuid.v1()
     }
 
     let encodedParameters = `oauth_consumer_key=${Auth_2.oauth_consumer_key}&oauth_nonce=${Auth_2.oauth_nonce}&oauth_signature_method=HMAC-SHA1&oauth_timestamp=${Auth_2.oauth_timestamp}&oauth_token=${Auth_2.oauth_token}&oauth_version=1.0`;
