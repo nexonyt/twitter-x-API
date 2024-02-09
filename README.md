@@ -8,7 +8,7 @@ To use API, take from X Developer's site:
 
 
 ## How do I get the keys needed for integration?
-In order to connect your integration with the X API, you must first have an account on X and then log in to the development panel. [Link below.](https://developer.twitter.com/en/portal/dashboard)
+In order to connect your integration with the X API, you must first have an account on X and then log in to the development panel. [Link here.](https://developer.twitter.com/en/portal/dashboard)
 Then find the section shown below. There you will find all 4 keys needed in the code. Do not give it to anyone, it is confidential data.
 Find in a file this line of code:
 
