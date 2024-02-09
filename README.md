@@ -8,7 +8,7 @@ To use API, take from X Developer's site
 
 Find in a file this line of code:
 
-    `const Auth_2 = {
+const Auth_2 = {
         oauth_consumer_key: "API KEY",
         oauth_token: "API ACCESS TOKEN",
         oauth_secret_key: "API SECRET KEY",
@@ -18,7 +18,7 @@ Find in a file this line of code:
         oauth_nonce: uuid.v1(),
         oauth_version: "1.0",
         oauth_signature: "obKeVKBvjoOaV6kGPv76zM3odDg%3D"
-    }`
+}
 
 ## Donation
 [EN] If my code was useful, I will gladly accept a small donation in the form of a cup of coffee from you: https://buycoffee.to/nexonyt
