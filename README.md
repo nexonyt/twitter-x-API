@@ -8,7 +8,8 @@ To use API, take from X Developer's site
 
 Find in a file this line of code:
 
-```const Auth_2 = {
+```
+const Auth_2 = {
         oauth_consumer_key: "API KEY",
         oauth_token: "API ACCESS TOKEN",
         oauth_secret_key: "API SECRET KEY",
