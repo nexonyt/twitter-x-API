@@ -11,7 +11,10 @@ Find in a file this line of code:
 
 Do not forget to put your keys in code:
 - `API KEY` - it's your API KEY from X
-
+- `API SECRET KEY` - it's your API KEY from X
+- `API ACCESS TOKEN` - it's your API KEY from X
+- `API ACCESS TOKEN SECRET` - it's your API KEY from X
+- 
 ```
 const Auth_2 = {
         oauth_consumer_key: "API KEY",
