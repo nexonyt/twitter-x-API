@@ -18,7 +18,8 @@ Find in a file this line of code:
         oauth_nonce: uuid.v1(),
         oauth_version: "1.0",
         oauth_signature: "obKeVKBvjoOaV6kGPv76zM3odDg%3D"
-}```
+}
+```
 
 ## Donation
 [EN] If my code was useful, I will gladly accept a small donation in the form of a cup of coffee from you: https://buycoffee.to/nexonyt
