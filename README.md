@@ -4,9 +4,14 @@
 
 ## Description
 
-To use API, take from X Developer's site
+To use API, take from X Developer's site: 
 
+
+## How do I get the keys needed for integration?
+In order to connect your integration with the X API, you must first have an account on X and then log in to the development panel. [Link below.](https://developer.twitter.com/en/portal/dashboard)
+Then find the section shown below. There you will find all 4 keys needed in the code. Do not give it to anyone, it is confidential data.
 Find in a file this line of code:
+
 
 
 Do not forget to put your keys in code:
@@ -30,5 +35,8 @@ const Auth_2 = {
 }
 ```
 
+## Support
+If you need any help implementing integration, write me an e-mail: kontakt@nexonstudio.pl
+
 ## Donation
-[EN] If my code was useful, I will gladly accept a small donation in the form of a cup of coffee from you: https://buycoffee.to/nexonyt
+If my code was useful, I will gladly accept a small donation in the form of a cup of coffee from you: https://buycoffee.to/nexonyt
