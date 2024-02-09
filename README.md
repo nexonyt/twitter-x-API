@@ -6,6 +6,11 @@
 
 To use API, take from X Developer's site: 
 
+## Requirements to use the code
+Make sure that node packages are installed in the folder where the main file is located. The packages you will need to run the file are:
+- `npm install node-fetch`
+- `npm install uuid`
+- `npm install crypto`
 
 ## How do I get the keys needed for integration?
 In order to connect your integration with the X API, you must first have an account on X and then log in to the development panel. [Link here.](https://developer.twitter.com/en/portal/dashboard)
@@ -35,7 +40,13 @@ Then find the Content  Of The Tweet section. In this section, in the content var
 ```
 var content = "Your first tweet using API"
 ```
-Then the content of your tweet will be sent via the API using the fetch method. That's all!
+Then the content of your tweet will be sent via the API using the fetch method.
+
+
+Now open the terminal and type this command:
+`node .\how-to-post-tweet-by-api.js`
+
+That's all!
 
 ## Support
 If you need any help implementing integration, write me an e-mail: kontakt@nexonstudio.pl
