@@ -52,4 +52,6 @@ That's all!
 If you need any help implementing integration, write me an e-mail: kontakt@nexonstudio.pl
 
 ## Donation
-If my code was useful, I will gladly accept a small donation in the form of a cup of coffee from you: https://buycoffee.to/nexonyt
+If my code was useful, I will gladly accept a small donation in the form of a cup of coffee from you: 
+
+<a href="https://buycoffee.to/nexonyt" target="_blank"><img src="https://buycoffee.to/btn/buycoffeeto-btn-primary-outline.svg" style="width: 217px" alt="Postaw mi kawę na buycoffee.to"></a>
